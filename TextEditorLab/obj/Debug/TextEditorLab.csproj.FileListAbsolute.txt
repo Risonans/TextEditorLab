@@ -1,0 +1,10 @@
+D:\TextEditorLab\TextEditorLab\bin\Debug\TextEditorLab.exe.config
+D:\TextEditorLab\TextEditorLab\bin\Debug\TextEditorLab.exe
+D:\TextEditorLab\TextEditorLab\bin\Debug\TextEditorLab.pdb
+D:\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.csproj.AssemblyReference.cache
+D:\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.Properties.Resources.resources
+D:\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.csproj.GenerateResource.cache
+D:\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.csproj.CoreCompileInputs.cache
+D:\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.exe
+D:\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.pdb
+D:\TextEditorLab\TextEditorLab\obj\Debug\TextEditorLab.MainForm.resources
